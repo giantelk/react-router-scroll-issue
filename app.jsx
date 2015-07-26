@@ -14,7 +14,11 @@ var PageOne = React.createClass({
 		var showListHTML = [];
 
 		for (var i = 0; i <= 100; i++) {
-			showListHTML[i] = "Run to the hills, run for your lives. Da dana na nana na na na!"
+			showListHTML[i] = (
+				<li>
+					"Run to the hills, run for your lives. Da dana na nana na na na!"
+				</li>
+			);
 		};
 
 		return (
