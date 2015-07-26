@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "",
+  "description": "",
+  "dependencies": {},
+  "license": "",
+  "devDependencies": {
+    "react": "0.13.3",
+    "react-router": "0.13.3",
+    "reactify": "*"
+  }
+}
