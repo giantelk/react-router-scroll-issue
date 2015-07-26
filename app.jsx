@@ -1,4 +1,4 @@
-// Require() on client gets sucked into 1 JS file via build process i.e. Watchify or Browserify.
+// Require() on client gets sucked into 1 JS file via build process  i.e. Watchify or Browserify.
 var React = require('react');
 
 var Router = require('react-router');
